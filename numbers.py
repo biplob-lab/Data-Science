@@ -11,3 +11,10 @@ a = 2e3
 print(a)
 import random
 print(random.randrange(999, 10000))
+
+a = 5
+b = 10
+if a > b:
+    print("Biplob is noob")
+else:
+    print("Biplob is pro")
